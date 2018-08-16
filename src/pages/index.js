@@ -248,7 +248,7 @@ const IndexPage = class extends React.Component {
                 others.
               </CardContent>
               <CardContent>
-                You're welcom to fork the code on Github and contribute what
+                You're welcome to fork the code on Github and contribute what
                 you'd like to see added:
               </CardContent>
             </div>
@@ -281,7 +281,7 @@ const IndexPage = class extends React.Component {
               </CardContent>
             </div>
             <CardFooter>
-              <a href="https://medium.com/@kyle.robert.gill" target="_blank">
+              <a href="https://medium.freecodecamp.org/launching-a-side-project-in-10-days-615df3b0e808" target="_blank">
                 <Button
                   style={{
                     padding: '.5rem 1rem',
